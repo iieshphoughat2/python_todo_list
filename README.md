@@ -1,2 +1,25 @@
-# python_to-do_list
-A to-do list application built with Python to manage tasks, mark completion, and delete tasks with error handling.
+# Python To-Do List 
+
+A simple to-do list application built using Python.
+
+## Features
+- Add tasks
+- View all tasks
+- Mark tasks as completed
+- Delete tasks
+- Error handling
+
+## Tech Used
+- Python (loops, lists, dictionaries, error handling)
+
+## How to Run
+1. Clone the repository
+2. Run the Python file:
+   python todo_list.py
+
+## Future Improvements
+- Add file storage (save tasks)
+- Add date feature
+
+## Author
+Iiesh Phoughat
