@@ -10,7 +10,7 @@ A simple to-do list application built using Python.
 - Error handling
 
 ## Tech Used
-- Python (loops, lists, dictionaries, error handling)
+- Python (loops, lists, dictionaries, error handling, conditionals)
 
 ## How to Run
 1. Clone the repository
